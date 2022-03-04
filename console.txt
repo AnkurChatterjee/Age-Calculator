@@ -1,0 +1,72 @@
+Enter date in dd/mm/yyyy format.
+Enter date of birth: 10/08/1995
+Enter current date: 27/02/2022
+Age is: 26 YEARS 6 MONTHS 17 DAYS 
+
+1. Continue
+2. Exit
+Enter your choice: 1
+
+Enter date in dd/mm/yyyy format.
+Enter date of birth: 13/01/1857
+Enter current date: 02/03/2022
+Age is: 165 YEARS 1 MONTHS 17 DAYS 
+
+1. Continue
+2. Exit
+Enter your choice: 1
+
+Enter date in dd/mm/yyyy format.
+Enter date of birth: 31/02/1998
+Enter current date: 02/03/2022
+Invalid day entry in date of birth. Please retry with a valid input.
+
+1. Continue
+2. Exit
+Enter your choice: 1
+
+Enter date in dd/mm/yyyy format.
+Enter date of birth: 13/06/2005
+Enter current date: 29/06/2022
+Age is: 17 YEARS 0 MONTHS 16 DAYS 
+
+1. Continue
+2. Exit
+Enter your choice: 1
+
+Enter date in dd/mm/yyyy format.
+Enter date of birth: 19/05/1990
+Enter current date: 17/15/2022
+Invalid month entry in current date. Please retry with a valid input.
+
+1. Continue
+2. Exit
+Enter your choice: 1
+
+Enter date in dd/mm/yyyy format.
+Enter date of birth: 23/03/1965
+Enter current date: 02/03/2022
+Age is: 56 YEARS 11 MONTHS 7 DAYS 
+
+1. Continue
+2. Exit
+Enter your choice: 1
+
+Enter date in dd/mm/yyyy format.
+Enter date of birth: 17/10/2005
+Enter current date: 17/10/2022
+Age is: 17 YEARS 0 MONTHS 0 DAYS 
+
+1. Continue
+2. Exit
+Enter your choice: 1
+
+Enter date in dd/mm/yyyy format.
+Enter date of birth: 18/10/2020
+Enter current date: 02/03/2022
+Age is: 1 YEARS 4 MONTHS 12 DAYS 
+
+1. Continue
+2. Exit
+Enter your choice: 2
+
